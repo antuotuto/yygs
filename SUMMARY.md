@@ -2,7 +2,7 @@
 
 * [医药公司](README.md)
 * [销售部](xiao-shou-bu.md)
-  * 销售主管
+  * [销售主管](xiao-shou-bu/xiao-shou-zhu-guan.md)
   * [销售经理](xiao-shou-bu/xiao-shou-jing-li.md)
   * [业务员](xiao-shou-bu/ye-wu-yuan.md)
 * [仓储部](wu-liu-bu.md)
