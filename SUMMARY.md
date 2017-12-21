@@ -19,16 +19,16 @@
   * [采购员](cai-gou-bu/cai-gou-ren-yuan.md)
   * [采购部经理](cai-gou-bu/cai-gou-bu-jing-li.md)
 * [财务部](cai-wu-bu.md)
-  * 总监
-  * 电算会计
-  * 税务会计
-  * 应收会计
-  * 出纳
+  * [总监](cai-wu-bu/zong-jian.md)
+  * [电算会计](cai-wu-bu/dian-suan-hui-ji.md)
+  * [税务会计](cai-wu-bu/shui-wu-hui-ji.md)
+  * [应收会计](cai-wu-bu/ying-shou-hui-ji.md)
+  * [出纳](cai-wu-bu/chu-na.md)
   * 收银员
 * [人事部](zong-he-bu.md)
   * [办公室主任](zong-he-bu/ban-gong-shi-zhu-ren.md)
-  * 人事行政经理
-  * 人事行政文员
+  * [人事行政经理](zong-he-bu/ren-shi-xing-zheng-jing-li.md)
+  * [人事行政文员](zong-he-bu/ren-shi-xing-zheng-wen-yuan.md)
 * [技术部](ji-zhu-bu.md)
   * [技术主管](ji-zhu-bu/ji-zhu-zhu-guan.md)
   * 架构师
