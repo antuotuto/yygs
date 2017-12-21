@@ -9,11 +9,11 @@
   * [物流主管](wu-liu-bu/wu-liu-zhu-guan.md)
   * [配送员](wu-liu-bu/pei-song-yuan.md)
 * [客服部](ke-fu-bu.md)
-  * 客服主管
-  * 客服经理
-  * 客服人员
+  * [客服主管](ke-fu-bu/ke-fu-zhu-guan.md)
+  * [客服经理](ke-fu-bu/ke-fu-jing-li.md)
+  * [客服人员](ke-fu-bu/ke-fu-ren-yuan.md)
 * [质检部](zhi-jian-bu.md)
-  * 药师
+  * [药师](zhi-jian-bu/yao-shi.md)
   * [质检人员](zhi-jian-bu/zhi-jian-ren-yuan.md)
 * [采购部](cai-gou-bu.md)
   * [采购员](cai-gou-bu/cai-gou-ren-yuan.md)
