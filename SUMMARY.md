@@ -26,7 +26,7 @@
   * 出纳
   * 收银员
 * [人事部](zong-he-bu.md)
-  * 办公室主任
+  * [办公室主任](zong-he-bu/ban-gong-shi-zhu-ren.md)
   * 人事行政经理
   * 人事行政文员
 * [技术部](ji-zhu-bu.md)
