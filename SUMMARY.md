@@ -38,9 +38,5 @@
 * 安保部
   * 安保主任
 * 网络部
-  * 网络安全主管
-* 设计部
-  * [Web设计](webshe-ji.md)
-  * Logo设计
-  * 头像设计
+  * [网络安全主管](wang-luo-an-quan-zhu-guan.md)
 
