@@ -41,4 +41,7 @@
   * [网络安全主管](wang-luo-an-quan-zhu-guan.md)
 * [文档部](wen-dang-bu.md)
   * [市场部](wen-dang-bu/shi-chang-bu.md)
+  * [员工奖励方案](wen-dang-bu/yuan-gong-jiang-li-fang-an.md)
+  * 质管部基本规则
+  * 财务部函规定
 
